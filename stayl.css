@@ -1,0 +1,207 @@
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@1,600&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  width: 100%;
+  font-family: Cormorant Garamond sans-serif;
+  margin: 0 auto;
+}
+.header-container {
+  display: flex;
+  align-items: flex-start;
+  gap: 80px;
+  padding: 30px;
+  margin-left: 130px;
+}
+.header-container a {
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Cormorant Garamond sans-serif;
+}
+
+.button {
+  width: 123px;
+  height: 44px;
+  background-color: #000000;
+  text-transform: uppercase;
+  color: white;
+  font-family: Cormorant Garamond sans-serif;
+}
+.section-h1 {
+  margin-top: 100px;
+  margin-left: 150px;
+  font-size: 50px;
+  text-transform: uppercase;
+}
+
+.section-h3 {
+  margin-top: 70px;
+  margin-left: 400px;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+.section-h5 {
+  margin-top: 25px;
+  margin-left: 400px;
+  font-size: 16px;
+  text-transform: uppercase;
+}
+.img1 {
+  position: relative;
+  bottom: 220px;
+  left: 160px;
+}
+.img2 {
+  position: relative;
+  bottom: 220px;
+  left: 220px;
+}
+.img3 {
+  position: relative;
+  bottom: 220px;
+  left: 280px;
+}
+.sections {
+  display: flex;
+  padding: 100px;
+}
+
+.mains {
+  margin-left: 60px;
+}
+.main_h1 {
+  margin-left: 100px;
+  font-size: 35px;
+  text-transform: uppercase;
+}
+.main-h2 {
+  margin-left: 100px;
+  margin-top: 20px;
+  font-size: 24px;
+}
+.hr {
+  width: 1372px;
+  height: 1px;
+  background: #cecece;
+  margin-left: 100px;
+  margin-top: 50px;
+}
+.story p {
+  margin-bottom: 39px;
+  font-size: 25px;
+  text-transform: uppercase;
+  color: #000000;
+  margin-left: 60px;
+}
+.images {
+  margin-left: 100px;
+}
+.div {
+  margin-left: 100px;
+}
+
+.h1 {
+  font-size: 35px;
+  text-transform: uppercase;
+  color: #000000;
+}
+.sectionp {
+  margin-top: 50px;
+  font-size: 20px;
+}
+.sectionp2 {
+  margin-top: 50px;
+  font-size: 20px;
+}
+.footer-div {
+  width: 1600px;
+  height: 860px;
+  background: #f3f3ef;
+  padding: 130px;
+}
+.footer-h1 {
+  margin-left: 50px;
+  font-size: 35px;
+  text-transform: uppercase;
+}
+.footer-h2 {
+  margin-left: 50px;
+  margin-top: 25px;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+
+.footers {
+  display: flex;
+  gap: 26px;
+  position: relative;
+  bottom: 800px;
+  margin-left: 170px;
+}
+.footerdiv1 {
+  width: 440px;
+  height: 423px;
+}
+.footerdiv2 {
+  width: 440px;
+  height: 423px;
+}
+.footerdiv3 {
+  width: 440px;
+  height: 423px;
+}
+.h11 {
+  font-size: 20px;
+  text-transform: uppercase;
+  color: #000000;
+  margin-top: 34px;
+}
+.p {
+  font-size: 15px;
+  margin-top: 14px;
+  color: #000000;
+}
+.p2 {
+  font-size: 15px;
+  margin-top: 30px;
+  color: #000000;
+  text-transform: uppercase;
+}
+.h12 {
+  font-size: 20px;
+  text-transform: uppercase;
+  color: #000000;
+  margin-top: 34px;
+}
+.pp {
+  font-size: 15px;
+  margin-top: 14px;
+  color: #000000;
+}
+.p3 {
+  font-size: 15px;
+  margin-top: 30px;
+  color: #000000;
+  text-transform: uppercase;
+}
+.h13 {
+  font-size: 20px;
+  text-transform: uppercase;
+  color: #000000;
+  margin-top: 34px;
+}
+.ppp {
+  font-size: 15px;
+  margin-top: 14px;
+  color: #000000;
+}
+.p4 {
+  font-size: 15px;
+  margin-top: 30px;
+  color: #000000;
+  text-transform: uppercase;
+}
